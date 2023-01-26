@@ -12,25 +12,25 @@ $("document").ready(function(){
           $("#logo").attr("src","images/spring.gif");
           $("#wear").attr("src","images/spring-wear.jpg");
           $("html").css("background-color","#2B7129");
-          $("#title").text("Outfit for Spring");
+          $("#title").text("Florals for spring. Groundbreaking!");
         break;
         case "summer":
           $("#logo").attr("src","images/summer.gif");
           $("#wear").attr("src","images/summer-wear.jpg");
           $("html").css("background-color","#EBA52B");
-          $("#title").text("Outfit for Summer");
+          $("#title").text("Outfit for SummerSummer means happy times, ice cream and good sunshine.");
         break;
         case "fall":
           $("#logo").attr("src","images/fall.gif");
           $("#wear").attr("src","images/fall-wear.jpg");
           $("html").css("background-color","#A81124");
-          $("#title").text("Outfit for Fall");
+          $("#title").text("What do you use to mend a jack-o-lantern? A pumpkin patch.");
         break;
         case "winter":
           $("#logo").attr("src","images/winter.gif");
           $("#wear").attr("src","images/winter-wear.jpg");
           $("html").css("background-color","#005393");
-          $("#title").text("Outfit for Winter");
+          $("#title").text("In the depth of winter I finally learned that there was in me an invincible summer.");
         break;
         
         default:
